@@ -1,0 +1,332 @@
+[
+    {
+        "EID": "1001",
+        "DEPT": "OPS",
+        "DESI": "Director",
+        "SALARY": "380000"
+    },
+    {
+        "EID": "1002",
+        "DEPT": "OPS",
+        "DESI": "VP",
+        "SALARY": "245000"
+    },
+    {
+        "EID": "1003",
+        "DEPT": "ADMIN",
+        "DESI": "SR MANAGER",
+        "SALARY": "130748"
+    },
+    {
+        "EID": "1004",
+        "DEPT": "MIS",
+        "DESI": "Manager",
+        "SALARY": "134789"
+    },
+    {
+        "EID": "1005",
+        "DEPT": "HR",
+        "DESI": "Associate",
+        "SALARY": "298918"
+    },
+    {
+        "EID": "1006",
+        "DEPT": "OPS",
+        "DESI": "VP",
+        "SALARY": "96500"
+    },
+    {
+        "EID": "1007",
+        "DEPT": "HR",
+        "DESI": "MANAGER",
+        "SALARY": "128731"
+    },
+    {
+        "EID": "1008",
+        "DEPT": "OPS",
+        "DESI": "MANAGER",
+        "SALARY": "314035"
+    },
+    {
+        "EID": "1009",
+        "DEPT": "mis",
+        "DESI": "associate",
+        "SALARY": "153767"
+    },
+    {
+        "EID": "1010",
+        "DEPT": "MIS",
+        "DESI": "MANAGER",
+        "SALARY": "110052"
+    },
+    {
+        "EID": "1011",
+        "DEPT": "HR",
+        "DESI": "ASSOCIATE",
+        "SALARY": "184610"
+    },
+    {
+        "EID": "1012",
+        "DEPT": "HR",
+        "DESI": "SR. ASSOCIATE",
+        "SALARY": "207653"
+    },
+    {
+        "EID": "1013",
+        "DEPT": "MIS",
+        "DESI": "MANAGER",
+        "SALARY": "132686"
+    },
+    {
+        "EID": "1014",
+        "DEPT": "MIS",
+        "DESI": "ASSOCIATE",
+        "SALARY": "75800"
+    },
+    {
+        "EID": "1015",
+        "DEPT": "OPS",
+        "DESI": "ASSISTANT MANAGER",
+        "SALARY": "73706"
+    },
+    {
+        "EID": "1019",
+        "DEPT": "HR        ",
+        "DESI": "ASSOCIATE           ",
+        "SALARY": "69400"
+    },
+    {
+        "EID": "1020",
+        "DEPT": "HR        ",
+        "DESI": "ASSOCIATE           ",
+        "SALARY": "74350"
+    },
+    {
+        "EID": "1021",
+        "DEPT": "MIS       ",
+        "DESI": "ASSISTANT MANAGER   ",
+        "SALARY": "88408"
+    },
+    {
+        "EID": "1022",
+        "DEPT": "MIS       ",
+        "DESI": "ASSISTANT MANAGER   ",
+        "SALARY": "91280"
+    },
+    {
+        "EID": "1023",
+        "DEPT": "ADMIN",
+        "DESI": "ASSOCIATE",
+        "SALARY": "54550"
+    },
+    {
+        "EID": "1024",
+        "DEPT": "ADMIN",
+        "DESI": "ASSOCIATE",
+        "SALARY": "59500"
+    },
+    {
+        "EID": "1025",
+        "DEPT": "IT",
+        "DESI": "ASSOCIATE",
+        "SALARY": "44650"
+    },
+    {
+        "EID": "1026",
+        "DEPT": "IT",
+        "DESI": "ASSOCIATE",
+        "SALARY": "51500"
+    },
+    {
+        "EID": "1027",
+        "DEPT": "IT",
+        "DESI": "ASSOCIATE",
+        "SALARY": "56900"
+    },
+    {
+        "EID": "1028",
+        "DEPT": "IT",
+        "DESI": "MANAGER",
+        "SALARY": "111461"
+    },
+    {
+        "EID": "1029",
+        "DEPT": "ADMIN",
+        "DESI": "ASSISTANT MANAGER",
+        "SALARY": "69500"
+    },
+    {
+        "EID": "1030",
+        "DEPT": "MIS",
+        "DESI": "ASSOCIATE",
+        "SALARY": "49600"
+    },
+    {
+        "EID": "1031",
+        "DEPT": "IT",
+        "DESI": "ASSOCIATE",
+        "SALARY": "65000"
+    },
+    {
+        "EID": "1032",
+        "DEPT": "OPS",
+        "DESI": "ASSOCIATE",
+        "SALARY": "65000"
+    },
+    {
+        "EID": "1033",
+        "DEPT": "OPS",
+        "DESI": "SR. ASSOCIATE",
+        "SALARY": "55000"
+    },
+    {
+        "EID": "1034",
+        "DEPT": "ADMIN",
+        "DESI": "ASSOCIATE",
+        "SALARY": "47000"
+    },
+    {
+        "EID": "1035",
+        "DEPT": "HR",
+        "DESI": "ASSOCIATE",
+        "SALARY": "51500"
+    },
+    {
+        "EID": "1036",
+        "DEPT": "MIS",
+        "DESI": "ASSOCIATE",
+        "SALARY": "51500"
+    },
+    {
+        "EID": "1037",
+        "DEPT": "HR",
+        "DESI": "SR. ASSOCIATE",
+        "SALARY": "55000"
+    },
+    {
+        "EID": "1038",
+        "DEPT": "ADMIN",
+        "DESI": "SR. ASSOCIATE",
+        "SALARY": "56000"
+    },
+    {
+        "EID": "1039",
+        "DEPT": "OPS",
+        "DESI": "ASSOCIATE",
+        "SALARY": "NULL"
+    },
+    {
+        "EID": "1059",
+        "DEPT": "HR",
+        "DESI": "ASSOCIATE",
+        "SALARY": "59500"
+    },
+    {
+        "EID": "1063",
+        "DEPT": "OPS",
+        "DESI": "ASSOCIATE",
+        "SALARY": "65000"
+    },
+    {
+        "EID": "1064",
+        "DEPT": "OPS",
+        "DESI": "ASSOCOATE",
+        "SALARY": "159200"
+    },
+    {
+        "EID": "1065",
+        "DEPT": "OPS",
+        "DESI": "ASSOCIATE",
+        "SALARY": "149300"
+    },
+    {
+        "EID": "1066",
+        "DEPT": "OPS",
+        "DESI": "ASSOCIATE",
+        "SALARY": "97500"
+    },
+    {
+        "EID": "1067",
+        "DEPT": "OPS",
+        "DESI": "MANAGER",
+        "SALARY": "201685"
+    },
+    {
+        "EID": "1072",
+        "DEPT": "IT",
+        "DESI": "ASSOCIATE",
+        "SALARY": "64000"
+    },
+    {
+        "EID": "1040",
+        "DEPT": "OPS",
+        "DESI": "MANAGER",
+        "SALARY": "189685"
+    },
+    {
+        "EID": "1073",
+        "DEPT": "ADMIN",
+        "DESI": "ASSOCIATE",
+        "SALARY": "60500"
+    },
+    {
+        "EID": "1074",
+        "DEPT": "OPS",
+        "DESI": "MANAGER",
+        "SALARY": "117811"
+    },
+    {
+        "EID": "1075",
+        "DEPT": "ADMIN",
+        "DESI": "ASSOCIATE",
+        "SALARY": "110000"
+    },
+    {
+        "EID": "1077",
+        "DEPT": "ADMIN",
+        "DESI": "ASSOCIATE",
+        "SALARY": "70000"
+    },
+    {
+        "EID": "1078",
+        "DEPT": "TEMP",
+        "DESI": "ASSOCIATE",
+        "SALARY": "55000"
+    },
+    {
+        "EID": "1079",
+        "DEPT": "TEMP",
+        "DESI": "ASSOCIATE",
+        "SALARY": "75000"
+    },
+    {
+        "EID": "1081",
+        "DEPT": "TEMP",
+        "DESI": "ASSOCIATE",
+        "SALARY": "520000"
+    },
+    {
+        "EID": "1084",
+        "DEPT": "OPS",
+        "DESI": "ASSOCIATE",
+        "SALARY": "60000"
+    },
+    {
+        "EID": "1085",
+        "DEPT": "TEMP",
+        "DESI": "ASSOCIATE",
+        "SALARY": "50000"
+    },
+    {
+        "EID": "1086",
+        "DEPT": "TEMP",
+        "DESI": "ASSOCIATE",
+        "SALARY": "50000"
+    },
+    {
+        "EID": "1088",
+        "DEPT": "TEMP",
+        "DESI": "MANAGER",
+        "SALARY": "85000"
+    }
+]
